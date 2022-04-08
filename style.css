@@ -102,7 +102,7 @@ header .titulo span {
 .intro .titulointro {
   display: flex;
   flex-direction: column;
-  margin-left: 120px;
+  align-items: flex-end;
   gap: 20px;
 }
 
@@ -127,6 +127,7 @@ header .titulo span {
   font-weight: 600;
   text-transform: uppercase;
   border-radius: 15px;
+  margin-right: 170px;
 }
 
 .intro .imgintro {
